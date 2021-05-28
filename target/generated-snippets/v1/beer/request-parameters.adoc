@@ -1,0 +1,7 @@
+|===
+|Parameter|Description
+
+|`+isCold+`
+|Bear query param either hot or cold
+
+|===
